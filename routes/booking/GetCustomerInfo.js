@@ -29,7 +29,7 @@ module.exports = {
       "IDCardInfo": [{
         "InfoID": 0,
         "IDCardNo": "310109",
-        "IDCardType": 22,
+        "IDCardType": 10,
         "IDCardTimelimit": null
       }],
       "CustomerType": ""
