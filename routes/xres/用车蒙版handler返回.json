@@ -1,0 +1,73 @@
+{
+    "errmsg": "OK",
+    "errno": 0,
+    "data": {
+        "ProductID": 55,
+        "Name": "接送机",
+        "ResourceData": [{
+            "OptionBaseInfo": {
+                "CategoryID": 55,
+                "OptionID": 4141778,
+                "Token": "04TO-PI_4141776_4141778_F_T",
+                "OptionName": "【自由行接送机】fwq机场接送机",
+                "Price": 300.00,
+                "Unit": "辆",
+                "DefaultCount": 3,
+                "MaxCount": 3,
+                "MinCount": 0,
+                "StepCount": 1,
+                "DateSelection": {
+                    "Type": 2,
+                    "MaxBookingDays": 5,
+                    "MinBookingDays": 1
+                },
+                "ResourceFrom": 1
+            },
+            "AddInfos": [{
+                "SubTitleName": "重要条款",
+                "Details": [{
+                    "Detail": "手工添加预订须知-重要条款：\n套餐C)往返车费、进山费、大索道、环保车、蓝月谷、导游服务、自助午餐、氧气、衣服、矿泉水、旅\n游组合险 \n儿童：包含往返车费及旅游组合保险<br/>预订须知-重要条款222\n圣诞节后疯狂送京东方和卡萨丁解放后少看电视尽快反馈圣诞节发送到看风景<br/>"
+                }]
+            }],
+            "DailyPrices": {
+                "2016-04-21": 310.00,
+                "2016-04-22": 320.00,
+                "2016-04-23": 330.00,
+                "2016-04-24": 340.00,
+                "2016-04-25": 350.00,
+                "2016-04-26": 360.00,
+                "2016-04-27": 370.00,
+                "2016-04-28": 380.00,
+                "2016-04-29": 390.00,
+                "2016-04-30": 400.00
+            },
+            "visa": null,
+            "TTDExtendInfos": [{
+                "ID": 231779,
+                "Name": "上车点",
+                "Type": 1,
+                "ItemList": [{
+                    "ItemID": 309448,
+                    "Content": "海南明珠广场"
+                }, {
+                    "ItemID": 309449,
+                    "Content": "凌空SOHO"
+                }, {
+                    "ItemID": 309456,
+                    "Content": "暂时无法确认"
+                }]
+            }, {
+                "ID": 231780,
+                "Name": "下车点",
+                "Type": 1,
+                "ItemList": [{
+                    "ItemID": 309450,
+                    "Content": "三亚明珠广场"
+                }, {
+                    "ItemID": 309451,
+                    "Content": "虹桥国际机场"
+                }]
+            }]
+        }]
+    }
+}

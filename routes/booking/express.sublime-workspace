@@ -1,0 +1,1388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isShowList"
+			],
+			[
+				"ini",
+				"initData"
+			],
+			[
+				"set",
+				"setWarn"
+			],
+			[
+				"lis",
+				"listWidth"
+			],
+			[
+				"info",
+				"infoList"
+			],
+			[
+				"Ticket",
+				"TicketAddInfos"
+			],
+			[
+				"get",
+				"getClassName"
+			],
+			[
+				"_o",
+				"_optItem"
+			],
+			[
+				"Res",
+				"ResSubmit"
+			],
+			[
+				"_error",
+				"_errorTpl"
+			],
+			[
+				"Sin",
+				"SingleResource"
+			],
+			[
+				"Sing",
+				"SingleItem"
+			],
+			[
+				"_on",
+				"_onArror"
+			],
+			[
+				"A",
+				"ActivityID"
+			],
+			[
+				"line",
+				"lineData"
+			],
+			[
+				"act",
+				"actText"
+			],
+			[
+				"G",
+				"GAD"
+			],
+			[
+				"temp",
+				"tempImage"
+			],
+			[
+				"trip",
+				"tripNum"
+			],
+			[
+				"date",
+				"dateArr"
+			],
+			[
+				"ev",
+				"evTarget"
+			],
+			[
+				"data",
+				"datatype"
+			],
+			[
+				"mouse",
+				"mouseleave"
+			],
+			[
+				"for",
+				"formData"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"err",
+				"errback"
+			],
+			[
+				"def",
+				"defaultSetting"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"cq",
+				"cq"
+			],
+			[
+				"msg",
+				"msgContentArray"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"_rend",
+				"_rendTrip"
+			],
+			[
+				"_cb",
+				"_cbText"
+			],
+			[
+				"item",
+				"itemCnt"
+			],
+			[
+				"tem",
+				"tempUrl"
+			],
+			[
+				"au",
+				"author	@author"
+			],
+			[
+				"o",
+				"oBirth"
+			],
+			[
+				"ch",
+				"children_global"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"birthday",
+				"birthdayS"
+			],
+			[
+				"请选择",
+				"请选择城市"
+			],
+			[
+				"Post",
+				"PostCode"
+			],
+			[
+				"file",
+				"fileLastName"
+			],
+			[
+				"call",
+				"_callback"
+			],
+			[
+				"up",
+				"upParam"
+			],
+			[
+				"upload",
+				"uploadComplete"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/git/node/public/express/p6673978s1.html",
+			"settings":
+			{
+				"buffer_size": 206452,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/git/node/routes/freetravel/FHResourceSearch.js",
+			"settings":
+			{
+				"buffer_size": 56644,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "set json",
+		"selected_items":
+		[
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set bable",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"set asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"set coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set swift",
+				"Set Syntax: Swift"
+			],
+			[
+				"git",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"git:status",
+				"Git: Status"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 414.0
+	},
+	"console":
+	{
+		"height": 333.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/git/node/routes",
+		"/D/git/node/routes/booking",
+		"/D/git/node/routes/freetravel",
+		"/D/git/node/public/express"
+	],
+	"file_history":
+	[
+		"/D/git/node/routes/xres/GetProductDetails.js",
+		"/D/git/node/routes/booking/ResourceSearchIns.js",
+		"/D/git/node/routes/index.js",
+		"/D/git/node/public/express/TmpOrderJumpV2.html",
+		"/D/git/node/routes/bookingnext.js",
+		"/D/git/node/routes/booking/groupInvoiceInfo.js",
+		"/D/git/node/routes/booking/LoadBookingInfoV2.js",
+		"/D/git/node/routes/booking/GetCustomerTemplate.js",
+		"/D/git/node/routes/booking/GetCustomerInfo.js",
+		"/D/git/node/routes/booking/CheckOrderIsDuplicated.js",
+		"/D/git/node/routes/freetravel/FHResourceSearch.js",
+		"/D/git/node/routes/booking/grouploadbookinginfo.js",
+		"/D/git/node/public/express/order1.html",
+		"/D/git/node/routes/booking/ContinueBookTmpOrderV2.js",
+		"/D/git/node/routes/xres/GetProductDetailsTicket.js",
+		"/D/git/node/routes/xres/GetProductDetailsVisa.js",
+		"/D/git/node/routes/booking/ResourceSearch.js",
+		"/D/git/node/routes/xres/GetProductDetailsWifi.js",
+		"/D/git/node/routes/xres/PositiveXSearch.js",
+		"/D/git/node/public/express/finished.html",
+		"/D/git/node2/routes/xres/GetProductDetailsTicket.js",
+		"/D/git/node/public/express/freeOrder.html",
+		"/D/git/node/routes/xres/BookingSuccess.js",
+		"/D/git/node/routes/xres/Booking.js",
+		"/D/git/node/routes/xres/GetShoppingCartInfo.js",
+		"/D/git/node2/routes/xres/GetProductDetailsWifi.js",
+		"/D/git/node2/routes/index.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/visa_detail/visa_person.js",
+		"/D/git/node/public/Front.PC.Online/dest/ResVacationOnline/js/vacation/app/visa_detail/visa_person.js",
+		"/D/git/node/public/Front.PC.Online/dest/ResVacationOnline/js/vacation/app/visa_detail/visa_detail.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/visa_detail/visa_person.min.js",
+		"/D/git/node/public/express/visa_xdetail.html",
+		"/D/git/node/public/express/visa_xdetail.js",
+		"/D/git/node/views/index.jade",
+		"/D/git/node/routes/booking/CanBookCheck.js",
+		"/D/nproxy/detail/cldt.js",
+		"/D/nproxy/detail/ResourceSearch.js",
+		"/D/git/Tour/Webresource/Webresource/ResPackageOnline/js/min/controller/hotel.controller.js",
+		"/D/git/Tour/Webresource/Webresource/ResPackageOnline/temp/js/vacation/app/src/order/pgk_book_fill.js",
+		"/D/git/Tour/Webresource/Webresource/ResPackageOnline/data/cities_checkin_utf-8.js",
+		"/D/git/Tour/Webresource/Webresource/ResPackageOnline/data/cities_checkin_gb2312.js",
+		"/D/git/Tour/Webresource/Webresource/ResPackageOnline/data/cities_to_big5.js",
+		"/D/git/Tour/Webresource/Webresource/ResPackageOnline/js/src/ndp/combine2.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/handler/filter.js",
+		"/D/nproxy/detail/baoxian.json",
+		"/D/git/node/routes/booking/DescriptionInfo.js",
+		"/D/git/node/routes/booking/FavoriteCheck.js",
+		"/D/git/node/routes/booking/CalendarInfo.js",
+		"/D/git/node/routes/booking/TourMap.js",
+		"/D/git/node/routes/booking/PkgMinPriceCalcQueueInsert.js",
+		"/D/git/node/routes/booking/GetUserPromotionActivitys.js",
+		"/D/git/node/public/tourconfig.js",
+		"/D/git/node/public/express/freetravlOrderChild.html",
+		"/D/git/node/routes/booking/InvoiceInfo.js",
+		"/D/git/node/public/express/p6673978s1.html",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/PassengerForm.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/selector.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/SubmitBox.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/SpecialRequirement.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/handler/manipulation.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/initialStateTest.js",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/min/ndp/fltlist2.js",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/src/ndp/fltlist2.js",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/src/trace/detail.trace.js",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/src/sdp/detail-new/route.js",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/src/controller/shopping.controller.js",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/src/sdp/detail-new/resource.js",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/src/ndp/combine2.js",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/src/trace/ubt.trace.js",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/src/widget/lowprice/lowprice.widget.js",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/src/sdp/detail-new/tmpl/detail-calendar.html",
+		"/D/git/node/public/Webresource/Webresource/ResPackageOnline/js/src/trace/sdp.detail.trace.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/abduct/abduct.js",
+		"/D/git/node/public/Front.PC.Online/dest/ResVacationOnline/js/vacation/app/abduct/abduct.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/abduct/abduct.min.js",
+		"/d/Users/jiang.f/AppData/Roaming/Sublime Text 3/Packages/User/Minifier.sublime-settings",
+		"/d/Users/jiang.f/AppData/Roaming/Sublime Text 3/Packages/JsMinifier/Minifier.sublime-settings",
+		"/D/git/node/public/_compress.bat",
+		"/d/Users/jiang.f/AppData/Roaming/Sublime Text 3/Packages/vaca/README.md",
+		"/d/Users/jiang.f/AppData/Roaming/Sublime Text 3/Packages/vaca/vaca.sublime-settings",
+		"/d/Users/jiang.f/AppData/Roaming/Sublime Text 3/Packages/vaca/Default (Windows).sublime-keymap",
+		"/d/Users/jiang.f/AppData/Roaming/Sublime Text 3/Packages/vaca/Default (OSX).sublime-keymap",
+		"/d/Users/jiang.f/AppData/Roaming/Sublime Text 3/Packages/vaca/Context.sublime-menu",
+		"/d/Users/jiang.f/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/d/Users/jiang.f/AppData/Roaming/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/D/git/node/public/express/grouptravlOrder.html",
+		"/d/Users/jiang.f/Desktop/jquery.comm.js",
+		"/D/Users/jiang.f/Desktop/jquery.comm.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/subscriber.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/passengerListState.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/PassengerInputList.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/component/InputExplan.js",
+		"/D/git/node/public/Front.PC.Online/dest/ResVacationOnline/js/vacation/app/order_v2/index.html",
+		"/D/git/node/public/express/freetravlOrder.html",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/LogisticsForm.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/index.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/PriceBar.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/Root.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/util/showBookingPopup.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/BookProduct.js",
+		"/D/git/node/public/express/freetravlOrderV2China.html",
+		"/D/git/node/public/express/freetravlOrderChina.html",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/util/errorInfos.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/initialState.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/README.md",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/Promotion.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/InvoiceForm.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/handler/request.js",
+		"/D/work/order_v2/container/LogisticsForm.js",
+		"/D/git/node/routes/booking/groupBookingTips.js",
+		"/D/git/node/routes/booking/groupBookingTipsLimit.js",
+		"/D/git/node/routes/booking/groupGetPromotion.js",
+		"/D/git/node/public/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/PriceBarBak.js",
+		"/D/git/node/routes/users.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/InvoiceForm.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/handler/manipulation.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/component/PriceBoxItem.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/index.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/handler/request.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/handler/queue.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/handler/fetcher.js",
+		"/D/nproxy/detail.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/initialState.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/container/LogisticsForm.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/initialStateTest.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/review/review.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/order_v2/store/logisticsState.js",
+		"/D/git/Tour/Front/Front.PC.Online/src/ResVacationOnline/js/vacation/app/review/mod_h5up.js"
+	],
+	"find":
+	{
+		"height": 76.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\src",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\mods",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\src",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\src",
+			"D:\\git\\node\\public\\Webresource\\Webresource",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\src\\sdp",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\src",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\src\\trace",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\src",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\mods",
+			"D:\\git\\node\\public\\Webresource\\Webresource",
+			"D:\\git\\node\\public\\Webresource",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\src",
+			"D:\\git\\node\\public\\Webresource\\Webresource\\ResPackageOnline\\js\\src\\sdp",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xres",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xres\\component",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xres",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xrescar",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xres",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xres\\component",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xres",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xrescar",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xres",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xrescar",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xres\\component\\dialog",
+			"D:\\git\\node\\public\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\xres",
+			"D:\\git\\Tour\\Front\\Front.PC.Online_0325\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online_0325\\src\\ResVacationOnline\\js\\vacation\\app\\options",
+			"D:\\git\\Tour\\Front\\Front.PC.Online_0325\\src\\ResVacationOnline\\js\\vacation\\app\\myctrip",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\reslater",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\reslater",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\myctrip",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\detail_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\reslater",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2\\component",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\detail",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\detail",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\detail",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2\\store",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2",
+			"D:\\git\\Tour\\Front\\Front.PC.Online\\src\\ResVacationOnline\\js\\vacation\\app\\order_v2\\store",
+			"<open folders>",
+			"\",<open folders>",
+			"<open folders>",
+			"\",<open folders>,<open folders>",
+			"\",<open folders>",
+			"\"",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"上海浦东国际机场",
+			"420111196511071338",
+			"RetailInsurancePrompt",
+			"2404",
+			"from",
+			"出发酒店名（中文）",
+			"UnitQuantity",
+			"OrderDynamicTemplate",
+			"UnitQuantity",
+			"DateSelection",
+			"还件点",
+			"CategoryId",
+			"2425",
+			"2406",
+			"====",
+			"2404",
+			"GV.app.order",
+			"OrderDeliveryIsIntegralArrival",
+			"IsTemporaryOrder",
+			"typeof",
+			"ps.IntegralChecked",
+			"integralDeliverChange",
+			"isAllIntegralChecked",
+			"IntegralChecked",
+			"isAllIntegralChecked",
+			"otherInfo",
+			"isAllIntegralChecked",
+			"OrderDelivery",
+			"isAllIntegralChecked",
+			"integralDeliverChange",
+			"OrderDelivery",
+			"isAllIntegralChecked",
+			"IntegralChecked",
+			"IsSupportIntegralDelivery",
+			"MOBILE_TW",
+			"checkMobile",
+			"regex=\"checkMobile\"",
+			"nameCheckBoxType",
+			"PassengerInputList",
+			"NameInputComponent",
+			"nameCheckBoxType",
+			"订单一经提交，我们将立即操作扣款",
+			"CustomerAddOptionInfo",
+			"SELECT_HOTEL_REQUIREMENT",
+			"HotelToken",
+			"DeliveryInfoJson",
+			"DeliveryInfoJson ",
+			"IsIntegralArrival",
+			"var $rrow = $container.find('.flt_date:last')",
+			"flt_hbh",
+			"var $rrow = $container.find('.flt_date:last');",
+			"token",
+			"data-way",
+			"flightchangedata",
+			"traceflightchange",
+			"changeflight",
+			"departcityid",
+			"frt.portal.freetravel.detail.filterflight",
+			"filterflight",
+			"flightchangedata",
+			"traceflightchange",
+			"changeflight",
+			"frt.portal.freetravel.detail",
+			"js-resources",
+			"lowprice-search-first",
+			"commonCallback",
+			"Trace",
+			"js-resource-loading",
+			"shopping.model.js",
+			"getShoppingDetail",
+			"getRecommendDetail",
+			"FHResourceSearch",
+			"bg_blue on",
+			"getRecommend",
+			"getRecommendDetail",
+			"RESOURCES_SEARCH",
+			"calendar-day-picked",
+			"forday",
+			"trackFuncs.keyprefix",
+			"keyprefix",
+			"trackFuncs.keyprefix",
+			"keyprefix",
+			"frt.portal.freetravel.detail",
+			"frt.portal.freetravel.detail.forday",
+			"frt.portal.freetravel.detail",
+			"frt.portal.freetravel.detail.forday",
+			"Trace",
+			"ubt.trace.js",
+			"sdp.detail.trace",
+			"document",
+			"frt.portal.freetravel.detail.filterflight",
+			"FromCity",
+			"onElectronicInvoice",
+			"renderNoInvoice",
+			"ElectronicInvoice",
+			"onNoneInvoice",
+			"onElectronicInvoice",
+			"onNormalInvoice",
+			"invoice01",
+			"selectInvo",
+			"role=\"selectInvo\"",
+			"renderNoInvoice",
+			"toRender",
+			"insertAddressSelectForm",
+			"var insertAddressSelectForm = function() {",
+			"insertAddressSelectForm",
+			"cQuery.mod.load",
+			"toRender",
+			"click",
+			"tab_box",
+			"data-target",
+			"发票抬头",
+			"暂不支持报销",
+			"electronic",
+			"data-target",
+			"electronic",
+			"integralDeliverlist",
+			"totalPrice",
+			"integralDeliverChange",
+			"currentDeliverType",
+			"currentDeliverType = tab - 0;",
+			"currentDeliverType",
+			"integralDeliverlist",
+			"price_item",
+			"role=\"fright\"",
+			"price",
+			"price_item",
+			"totalPrice"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"ShowGroup\": true,",
+			"\"Remark\": \"33333333333333333333333333\",",
+			"  \"Remark1\": \"asdasdfasdfffffffffffffffffffff\",",
+			"\"ShowWifi\": true,",
+			"\"ShowDesigner\": true,",
+			"\"ShowDV\": true,",
+			"  \"Remark1\": \"77777777777777777777777777777\",",
+			"  \"Remark\": \"444444444444444444444444444444\",",
+			"\"ShowWifi\": true,",
+			"\"ShowDV\": true,"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/git/node/public/express/p6673978s1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6926,
+								6926
+							]
+						],
+						"settings":
+						{
+							"colorcode": false,
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/git/node/routes/freetravel/FHResourceSearch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1788,
+								1788
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 181.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 555.0
+	},
+	"pinned_build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
+	"project": "express.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"passengerinputlist",
+				"container\\PassengerInputList.js"
+			],
+			[
+				"passengerform.js",
+				"container\\PassengerForm.js"
+			],
+			[
+				"fltlist2",
+				"Webresource\\ResPackageOnline\\js\\src\\ndp\\fltlist2.js"
+			],
+			[
+				"fltlist2.js",
+				"Webresource\\ResPackageOnline\\js\\min\\ndp\\fltlist2.js"
+			],
+			[
+				"passengerinputlist.js",
+				"container\\PassengerInputList.js"
+			],
+			[
+				"showbookingpopup",
+				"util\\showBookingPopup.js"
+			],
+			[
+				"logisticsform",
+				"container\\LogisticsForm.js"
+			],
+			[
+				"showbookingpopup.js",
+				"util\\showBookingPopup.js"
+			],
+			[
+				"errorinfos.js",
+				"util\\errorInfos.js"
+			],
+			[
+				"pgk_book",
+				"order\\pgk_book_fill_next.js"
+			],
+			[
+				"ticketlists",
+				"xres\\component\\dialog\\TicketLists.js"
+			],
+			[
+				"select",
+				"xres\\component\\dialog\\SelectBox.js"
+			],
+			[
+				"pgk_book_fill_next.js",
+				"vacation\\app\\order\\pgk_book_fill_next.js"
+			],
+			[
+				"mod_quick_mobile",
+				"vacation\\app\\order\\mod_quick_mobile.js"
+			],
+			[
+				"pgk_book_",
+				"vacation\\app\\order\\pgk_book_fill_next.js"
+			],
+			[
+				"offline",
+				"vacation\\app\\order\\mod_offline_extra.js"
+			],
+			[
+				"pgk_book_fi",
+				"vacation\\app\\order\\pgk_book_fill_next.js"
+			],
+			[
+				"pgk_book_fill_next",
+				"vacation\\app\\order\\pgk_book_fill_next.js"
+			],
+			[
+				"pgk",
+				"vacation\\app\\order\\pgk_book_fill_next.js"
+			],
+			[
+				"inits",
+				"vacation\\app\\order_v2\\store\\initialState.js"
+			],
+			[
+				"qunaer",
+				"vacation\\app\\order\\mod_book_qunaer.js"
+			],
+			[
+				"freetrip",
+				"vacation\\app\\myctrip\\mod_freetrip.js"
+			],
+			[
+				"v_detail.js",
+				"vacation\\app\\detail\\v_detail.js"
+			],
+			[
+				"print.js",
+				"vacation\\app\\detail\\print.js"
+			],
+			[
+				"comparedetail.js",
+				"vacation\\app\\compare\\compareDetail.js"
+			],
+			[
+				"hotel_pop",
+				"vacation\\app\\tpl\\detail\\hotel_pop.html.js"
+			],
+			[
+				"hotel_pop.html",
+				"vacation\\app\\tpl\\detail\\hotel_pop.html"
+			],
+			[
+				"big_order.html.js",
+				"vacation\\app\\tpl\\detail\\big_order.html.js"
+			],
+			[
+				"big_order",
+				"vacation\\app\\tpl\\detail\\big_order.html"
+			],
+			[
+				"mod_detail_hotel_dialog",
+				"vacation\\app\\detail\\mod_detail_hotel_dialog.js"
+			],
+			[
+				"pgk_book_fill",
+				"vacation\\app\\order\\pgk_book_fill_next.js"
+			],
+			[
+				"flightremark",
+				"vacation\\app\\order_v2\\component\\FlightRemarkInfos.js"
+			],
+			[
+				"fligh",
+				"vacation\\app\\order_v2\\component\\FlightsResource.js"
+			],
+			[
+				"gift",
+				"vacation\\app\\order_v2\\component\\GiftResource.js"
+			],
+			[
+				"other",
+				"vacation\\app\\order_v2\\component\\OtherResurce.js"
+			],
+			[
+				"single",
+				"vacation\\app\\order_v2\\component\\SingleResource.js"
+			],
+			[
+				"order_detail.js",
+				"vacation\\app\\myctrip\\order_detail.js"
+			],
+			[
+				"pgk_",
+				"vacation\\app\\order\\pgk_book_fill_next.js"
+			],
+			[
+				"pkg_book_",
+				"vacation\\app\\order\\pgk_book_fill_next.js"
+			],
+			[
+				"mod_submit_trace",
+				"vacation\\app\\order\\mod_submit_trace.js"
+			],
+			[
+				"index.js",
+				"vacation\\app\\detail_v2\\index.js"
+			],
+			[
+				"modterm",
+				"vacation\\app\\order\\mod_term.js"
+			],
+			[
+				"store.js",
+				"vacation\\node_modules\\gulp-babel\\node_modules\\babel-core\\lib\\store.js"
+			],
+			[
+				"moddetailfav",
+				"vacation\\app\\detail\\mod_detail_favories.js"
+			],
+			[
+				"fav",
+				"vacation\\app\\search\\mod_favorite.js"
+			],
+			[
+				"order.ht",
+				"vacation\\app\\tpl\\detail\\big_order.html"
+			],
+			[
+				"mod_detail_stati",
+				"vacation\\app\\detail\\mod_detail_statistics.js"
+			],
+			[
+				"mod_detail_login",
+				"vacation\\app\\detail\\mod_detail_logindp.js"
+			],
+			[
+				"mod_detail_cou",
+				"vacation\\app\\detail\\mod_detail_coupon.js"
+			],
+			[
+				"mod_detail_big_order",
+				"vacation\\app\\detail\\mod_detail_big_order.js"
+			],
+			[
+				"mod_detail_newinsur",
+				"vacation\\app-es6\\detail\\mod_detail_newInsur.js"
+			],
+			[
+				"mod_detail_new",
+				"vacation\\app\\detail\\mod_detail_newInsur.js"
+			],
+			[
+				"order_detail",
+				"vacation\\app\\myctrip\\order_detail.js"
+			],
+			[
+				"v_dp",
+				"vacation\\app\\detail\\v_dp.js"
+			],
+			[
+				"v_detailjs",
+				"vacation\\app\\detail\\v_detail.js"
+			],
+			[
+				"mod_detail_big",
+				"vacation\\app\\detail\\mod_detail_big_order.js"
+			],
+			[
+				"showerrortooltip",
+				"vacation\\app\\order_v2\\util\\showErrorTooltip.js"
+			],
+			[
+				"order_detail_passenger_statc",
+				"vacation\\app\\tpl\\myctrip\\order_detail_passenger_static.html.js"
+			],
+			[
+				"order_detail_passenger_static.html",
+				"vacation\\app\\tpl\\myctrip\\order_detail_passenger_static.html"
+			],
+			[
+				"order_detail_passenger",
+				"vacation\\app\\myctrip\\order_detail_passenger.js"
+			],
+			[
+				"sms.js",
+				"vacation\\app\\searchOffline\\sms.js"
+			],
+			[
+				"pgkbook_fill",
+				"vacation\\app\\order\\pgk_book_fill.js"
+			],
+			[
+				"ordervalidate",
+				"vacation\\app\\order\\Validate.js"
+			],
+			[
+				"initial",
+				"vacation\\app\\order_v2\\store\\initialStateTest.js"
+			],
+			[
+				"fliter",
+				"vacation\\app\\order_v2\\store\\handler\\filter.js"
+			],
+			[
+				"travellers",
+				"vacation\\app\\order\\Travellers.js"
+			],
+			[
+				"mod_detail_start",
+				"vacation\\app\\detail\\mod_detail_startcity_morelines.js"
+			],
+			[
+				"flightsre",
+				"vacation\\app\\order_v2\\component\\FlightsResource.js"
+			],
+			[
+				"promotion",
+				"vacation\\app\\order_v2\\widget\\Promotion.js"
+			],
+			[
+				"root.js",
+				"vacation\\app\\order_v2\\container\\Root.js"
+			],
+			[
+				"fetch",
+				"vacation\\app\\order_v2\\store\\handler\\fetcher.js"
+			],
+			[
+				"v_flight",
+				"vacation\\app\\detail\\v_flight.js"
+			],
+			[
+				"flightsresource",
+				"vacation\\app\\order_v2\\component\\FlightsResource.js"
+			],
+			[
+				"root",
+				"vacation\\app\\order_v2\\container\\Root.js"
+			],
+			[
+				"bookproduct",
+				"vacation\\app\\order_v2\\widget\\BookProduct.js"
+			],
+			[
+				"contract.js",
+				"vacation\\app\\order_v2\\widget\\Contract.js"
+			],
+			[
+				"manipulation",
+				"vacation\\app\\order_v2\\store\\handler\\manipulation.js"
+			],
+			[
+				"slidetoggle",
+				"vacation\\app\\order_v2\\util\\slideToggle.js"
+			],
+			[
+				"pass",
+				"vacation\\app\\order_v2\\widget\\PassengerInputList.js"
+			],
+			[
+				"contract",
+				"vacation\\app\\order_v2\\widget\\Contract.js"
+			],
+			[
+				"fetcher.js",
+				"vacation\\app\\order_v2\\store\\handler\\fetcher.js"
+			],
+			[
+				"fetcher",
+				"vacation\\app\\order_v2\\store\\handler\\fetcher.js"
+			],
+			[
+				"storemanipu",
+				"vacation\\app\\order_v2\\store\\handler\\manipulation.js"
+			],
+			[
+				"storeselector",
+				"vacation\\app\\order_v2\\store\\selector.js"
+			],
+			[
+				"mod_topinfo",
+				"vacation\\app\\order\\mod_topinfo.js"
+			],
+			[
+				"mod_promotion",
+				"vacation\\app\\order\\mod_promotion.js"
+			],
+			[
+				"mod_term",
+				"vacation\\app\\order\\mod_term.js"
+			],
+			[
+				"locals",
+				"app\\public\\localStorage.js"
+			],
+			[
+				"localstorage.js",
+				"app\\public\\localStorage.js"
+			],
+			[
+				"big_order.html",
+				"app\\tpl\\detail\\big_order.html"
+			],
+			[
+				"mod_detail_morelines",
+				"app\\detail\\mod_detail_morelines.js"
+			],
+			[
+				"optional_pop.html",
+				"app\\tpl\\detail\\optional_pop.html"
+			],
+			[
+				"optional_pop.html.js",
+				"app\\tpl\\detail\\optional_pop.html.js"
+			],
+			[
+				"vf",
+				"app\\detail\\v_flight.js"
+			],
+			[
+				"optional_pop",
+				"app\\tpl\\detail\\optional_pop.html.js"
+			],
+			[
+				"v_hotel.js",
+				"app\\detail\\v_hotel.js"
+			],
+			[
+				"v_hotel",
+				"app\\detail\\v_hotel.js"
+			],
+			[
+				"mod_newin",
+				"app\\detail\\mod_detail_newInsur.js"
+			],
+			[
+				"mod_detail_cal",
+				"app\\detail\\mod_detail_calendar.js"
+			],
+			[
+				"mod_detail_coup",
+				"app-es6\\detail\\mod_detail_coupon.js"
+			],
+			[
+				"mod_detail_need",
+				"app\\detail\\mod_detail_needknow.js"
+			],
+			[
+				"mod_detail_singletonmanager",
+				"app\\detail\\mod_detail_singletonManager.js"
+			],
+			[
+				"offline_self",
+				"app\\detail\\mod_offline_SelfFeeInfos.js"
+			],
+			[
+				"optional",
+				"app\\tpl\\detail\\optional_pop.html"
+			],
+			[
+				"moddetailinsruance",
+				"app\\detail\\mod_detail_insurance.js"
+			],
+			[
+				"mod_detail_data",
+				"app\\detail\\mod_detail_dataManager.js"
+			],
+			[
+				"mod_offline_selffeeinfos",
+				"app\\detail\\mod_offline_SelfFeeInfos.js"
+			],
+			[
+				"mod_util",
+				"app\\detail\\mod_util.js"
+			],
+			[
+				"moddetailbig",
+				"app\\detail\\mod_detail_big_order.js"
+			],
+			[
+				"order.h",
+				"app\\tpl\\detail\\big_order.html"
+			],
+			[
+				"order_",
+				"app\\myctrip\\order_detail.js"
+			],
+			[
+				"visatoo",
+				"app\\visa_detail\\visa_detail_resource_toolBar.js"
+			],
+			[
+				"visa_de",
+				"app\\visa_detail\\visa_detail.js"
+			],
+			[
+				"mod_detail_children",
+				"app\\detail\\mod_detail_children.js"
+			],
+			[
+				"visa_detail_resource_toolbar",
+				"app\\visa_detail\\visa_detail_resource_toolBar.js"
+			],
+			[
+				"visa_detail.js",
+				"app\\visa_detail\\visa_detail.js"
+			],
+			[
+				"mod_detail_nee",
+				"app\\detail\\mod_detail_needknow.js"
+			],
+			[
+				"mod_detail_calendar",
+				"app\\detail\\mod_detail_calendar.js"
+			],
+			[
+				"mod_detail_newins",
+				"app-es6\\detail\\mod_detail_newInsur.js"
+			],
+			[
+				"mod_detail_price",
+				"app\\detail\\mod_detail_pricetip.js"
+			],
+			[
+				"mod_detail_tracelog",
+				"app\\detail\\mod_detail_traceLog.js"
+			],
+			[
+				"mod_detail_coupon.",
+				"app-es6\\detail\\mod_detail_coupon.js"
+			],
+			[
+				"mod_detail_coupon",
+				"app-es6\\detail\\mod_detail_coupon.js"
+			],
+			[
+				"mod_detail_ids",
+				"app\\detail\\mod_detail_discount.js"
+			],
+			[
+				"mod_detail_newi",
+				"app\\detail\\mod_detail_newInsur.js"
+			],
+			[
+				"serialize",
+				"app\\Modules\\serialize.js"
+			],
+			[
+				"auto",
+				"app\\visaAutoComplete\\visaAutoComplete.js"
+			],
+			[
+				"order.",
+				"app\\tpl\\detail\\big_order.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

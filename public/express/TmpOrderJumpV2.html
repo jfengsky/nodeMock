@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>暂存订单</title>
+    <link href="http://webresource.fws.qa.nt.ctripcorp.com/ResVacationOnline/R7/css/vacation_v2/ordermanage.css?ver=20160601" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://webresource.ctrip.com/code/cquery/LABjs/LAB.js?ver=20160601" charset="utf-8"></script>
+    <script type="text/javascript" src="http://webresource.ctrip.com/code/cquery/cQuery_110421.js?ver=20160601" charset="utf-8"></script>
+    <script type="text/javascript" src="http://webresource.fws.qa.nt.ctripcorp.com/ResVacationOnline/R7/js/vacation/lib/vacation_global.min.js?ver=20160601" charset="utf-8"></script>
+</head>
+
+<body class="backg_none">
+
+    <input id="TmpOrderID" type="hidden" />
+    <div class="jmp_teorder">
+        <div class="loading_pic"><img alt="" src="http://pic.ctrip.com/common/loading_50.gif"></div>
+        <div class="loading_infor">
+            <p>您之前所选的机票、酒店等资源的价格和库存可能发生变化，</p>
+            <p class="text_ssb">正在重新计算，请稍候...</p>
+        </div>
+    </div>
+    <div id="jsContainer" class="jsContainer" style="height: 0">
+        <textarea id="jsSaveStatus" style="display: none;"></textarea>
+        <div id="tuna_alert" style="display: none; position: absolute; z-index: 999; overflow: hidden;">
+        </div>
+        <div id="tuna_jmpinfo" style="visibility: hidden; position: absolute; z-index: 120;">
+        </div>
+
+        <div style="position:absolute; top: 0; z-index: 120; display: none" id="tuna_calendar"
+             class="tuna_calendar">
+        </div>
+    </div>
+    <input type="hidden" id="releaseno" value="?releaseno=201201101306" />
+    <script type="text/javascript">
+    GV.app.detail =
+    {
+        data: {
+            GoDetailNew: true
+            },
+        api: {
+            LoadTmpOrderJumpNew: '/bookingnext/OrderManage/ContinueBookTmpOrderV2?shoppingId=6ad0e4011c1b4d319ff66cebd47f3ca3'
+        }
+    };
+    </script>
+    <script src="/Front.PC.Online/src/ResVacationOnline/js/vacation/app/options/orderjump.js"></script>
+
+</body>
+</html>
