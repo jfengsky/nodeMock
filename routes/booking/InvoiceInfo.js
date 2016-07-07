@@ -2,6 +2,132 @@ module.exports = {
     "errmsg": "OK",
     "errno": 0,
     "data": {
+        "CustomerInfoTemplate": {
+            "CustomerInfoItems": [{
+                "CustomerInfoItemID": 20,
+                "CustomerInfoItemModel": 2,
+                "CustomerInfoItemType": "10",
+                "Name": "港澳通行证",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 0,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 1,
+                "CustomerInfoItemModel": 1,
+                "CustomerInfoItemType": "ChineseName",
+                "Name": "中文姓名",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 1,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 2,
+                "CustomerInfoItemModel": 1,
+                "CustomerInfoItemType": "EnglishName",
+                "Name": "英文姓名",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 2,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 4,
+                "CustomerInfoItemModel": 1,
+                "CustomerInfoItemType": "Nationality",
+                "Name": "国籍",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 4,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 5,
+                "CustomerInfoItemModel": 1,
+                "CustomerInfoItemType": "IDType",
+                "Name": "证件类型",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 5,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 6,
+                "CustomerInfoItemModel": 1,
+                "CustomerInfoItemType": "Sex",
+                "Name": "性别",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 6,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 7,
+                "CustomerInfoItemModel": 1,
+                "CustomerInfoItemType": "IDNumber",
+                "Name": "证件号",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 7,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 8,
+                "CustomerInfoItemModel": 1,
+                "CustomerInfoItemType": "Birthday",
+                "Name": "出生日期",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 8,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 11,
+                "CustomerInfoItemModel": 1,
+                "CustomerInfoItemType": "ContactPhone",
+                "Name": "联系电话",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 11,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 14,
+                "CustomerInfoItemModel": 2,
+                "CustomerInfoItemType": "2",
+                "Name": "护照",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 14,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 18,
+                "CustomerInfoItemModel": 2,
+                "CustomerInfoItemType": "7",
+                "Name": "回乡证",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 18,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 19,
+                "CustomerInfoItemModel": 2,
+                "CustomerInfoItemType": "8",
+                "Name": "台胞证",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 19,
+                "IsRequired": true
+            }, {
+                "CustomerInfoItemID": 40,
+                "CustomerInfoItemModel": 1,
+                "CustomerInfoItemType": "CustomerType",
+                "Name": "客户类别",
+                "RegEx": "",
+                "Note": null,
+                "SortNumber": 31,
+                "IsRequired": true
+            }],
+            "FillInNumberLimit": "A",
+            "IsVisaBySelf": false,
+            "VisaTypeInfo": {
+                "Tips": null,
+                "VisaTypeItems": null
+            }
+        },
         "Invoice": {
             "Content": [{
                 "Key": 1,
@@ -13,9 +139,6 @@ module.exports = {
                 "Key": 8,
                 "Value": "机票＋酒店"
             }, {
-                "Key": 128,
-                "Value": "服务费（代为租车服务）"
-            }, {
                 "Key": 512,
                 "Value": "台湾团队旅游费"
             }, {
@@ -23,6 +146,21 @@ module.exports = {
                 "Value": "服务费"
             }],
             "MyInvoices": [{
+                "Key": 10149060,
+                "Value": "11111"
+            }, {
+                "Key": 10068306,
+                "Value": "sdfs"
+            }, {
+                "Key": 10041167,
+                "Value": "gstt1"
+            }, {
+                "Key": 10012248,
+                "Value": "啊紧身裤"
+            }, {
+                "Key": 10011131,
+                "Value": "发票抬头"
+            }, {
                 "Key": 9759992,
                 "Value": "大法师"
             }, {
@@ -159,28 +297,42 @@ module.exports = {
                     "IntegralDeliverAmount": 0
                 }]
             }],
-            "MyEMSAddress": null,
-            "InCityDelivery": null,
+            "MyEMSAddress": [{
+                "InfoId": 42630450,
+                "Address": "南京西路1000号",
+                "ProvinceId": 2,
+                "ProvinceName": "上海",
+                "CityId": 2,
+                "CityName": "上海市",
+                "CantonID": 112,
+                "CantonName": "静安区",
+                "Post": "200333",
+                "Recipient": "test",
+                "Tel": "13000010003",
+                "Mobile": ""
+            }],
+            "InCityDelivery": [{
+                "InfoId": 42630450,
+                "Address": "南京西路1000号",
+                "ProvinceId": 0,
+                "ProvinceName": null,
+                "CityId": 2,
+                "CityName": "上海市",
+                "CantonID": 112,
+                "CantonName": "静安区",
+                "Post": null,
+                "Recipient": null,
+                "Tel": null,
+                "Mobile": null
+            }],
             "CityName": "上海"
         },
         "PickUpInfos": [],
-        "Reminder": ['接民航总局通知，凡购买到达或中转城市为西藏拉萨、林芝、昌都、日喀则、阿里航班的旅客，只能使用中国公民身份证进行预订'],
-        "IsVisa": false,
-        "VisaTypeInfo": {
-        "Tips": "签注类型提示文字",
-        "VisaTypeItems": [{
-          "VisaType": "G",
-          "VisaTypeName": "G签",
-          "Tips": 'G签',
-        }, {
-          "VisaType": "L",
-          "VisaTypeName": "L签",
-          "Tips": 'L签'
-        }, {
-          "VisaType": "N",
-          "VisaTypeName": "尚未办理",
-          "Tips": null
-        }]
-      }
+        "Reminder": null,
+        "OrderPassengerList": null,
+        "OrderDelivery": null,
+        "OrderInvoice": null,
+        "OrderOther": null,
+        "IsVisa": false
     }
 }

@@ -1855,6 +1855,15 @@ module.exports = {
   "data": {
     "CustomerInfoTemplate": {
       "CustomerInfoItems": [{
+        "CustomerInfoItemID": 20,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "10",
+        "Name": "港澳通行证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 0,
+        "IsRequired": true
+      }, {
         "CustomerInfoItemID": 1,
         "CustomerInfoItemModel": 1,
         "CustomerInfoItemType": "ChineseName",
@@ -1889,7 +1898,7 @@ module.exports = {
         "RegEx": "",
         "Note": null,
         "SortNumber": 5,
-        "IsRequired": false
+        "IsRequired": true
       }, {
         "CustomerInfoItemID": 6,
         "CustomerInfoItemModel": 1,
@@ -1907,7 +1916,7 @@ module.exports = {
         "RegEx": "",
         "Note": null,
         "SortNumber": 7,
-        "IsRequired": false
+        "IsRequired": true
       }, {
         "CustomerInfoItemID": 8,
         "CustomerInfoItemModel": 1,
@@ -1916,16 +1925,7 @@ module.exports = {
         "RegEx": "",
         "Note": null,
         "SortNumber": 8,
-        "IsRequired": false
-      }, {
-        "CustomerInfoItemID": 10,
-        "CustomerInfoItemModel": 1,
-        "CustomerInfoItemType": "CardValidUntil",
-        "Name": "证件有效期",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 10,
-        "IsRequired": false
+        "IsRequired": true
       }, {
         "CustomerInfoItemID": 11,
         "CustomerInfoItemModel": 1,
@@ -1934,42 +1934,15 @@ module.exports = {
         "RegEx": "",
         "Note": null,
         "SortNumber": 11,
-        "IsRequired": false
-      }, {
-        "CustomerInfoItemID": 13,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "1",
-        "Name": "身份证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 13,
         "IsRequired": true
       }, {
-        "CustomerInfoItemID": 15,
+        "CustomerInfoItemID": 14,
         "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "3",
-        "Name": "学生证",
+        "CustomerInfoItemType": "2",
+        "Name": "护照",
         "RegEx": "",
         "Note": null,
-        "SortNumber": 15,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 16,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "4",
-        "Name": "军官证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 16,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 17,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "6",
-        "Name": "驾驶证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 17,
+        "SortNumber": 14,
         "IsRequired": true
       }, {
         "CustomerInfoItemID": 18,
@@ -1990,106 +1963,7 @@ module.exports = {
         "SortNumber": 19,
         "IsRequired": true
       }, {
-        "CustomerInfoItemID": 20,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "10",
-        "Name": "港澳通行证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 20,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 21,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "11",
-        "Name": "国际海员证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 21,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 22,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "20",
-        "Name": "外国人永久居留证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 22,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 23,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "21",
-        "Name": "旅行证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 23,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 24,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "22",
-        "Name": "台湾通行证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 24,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 25,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "23",
-        "Name": "士兵证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 25,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 26,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "24",
-        "Name": "临时身份证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 26,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 27,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "25",
-        "Name": "户口簿",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 27,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 28,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "26",
-        "Name": "警官证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 28,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 29,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "99",
-        "Name": "其它",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 29,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 30,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "100",
-        "Name": "稍后提供",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 30,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 60,
+        "CustomerInfoItemID": 40,
         "CustomerInfoItemModel": 1,
         "CustomerInfoItemType": "CustomerType",
         "Name": "客户类别",
@@ -2097,78 +1971,213 @@ module.exports = {
         "Note": null,
         "SortNumber": 31,
         "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 61,
-        "CustomerInfoItemModel": 3,
-        "CustomerInfoItemType": "Officer_1",
-        "Name": "在职",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 32,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 62,
-        "CustomerInfoItemModel": 3,
-        "CustomerInfoItemType": "Freelance_1",
-        "Name": "自由职业",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 33,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 63,
-        "CustomerInfoItemModel": 3,
-        "CustomerInfoItemType": "Students_1",
-        "Name": "在校学生",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 34,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 64,
-        "CustomerInfoItemModel": 3,
-        "CustomerInfoItemType": "Retirement_1",
-        "Name": "退休",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 35,
-        "IsRequired": true
-      }, {
-        "CustomerInfoItemID": 65,
-        "CustomerInfoItemModel": 3,
-        "CustomerInfoItemType": "Preschoolers_1",
-        "Name": "学龄前儿童",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 36,
-        "IsRequired": true
       }],
       "FillInNumberLimit": "A",
       "IsVisaBySelf": false,
       "VisaTypeInfo": {
-        "Tips": "签注类型提示文字",
-        "VisaTypeItems": [{
-          "VisaType": "G",
-          "VisaTypeName": "G签",
-          "Tips": null,
-        }, {
-          "VisaType": "L",
-          "VisaTypeName": "L签",
-          "Tips": "个人持L团队签注前往香港需选择送关服务并支付费用，拼团出关。"
-        }, {
-          "VisaType": "N",
-          "VisaTypeName": "尚未办理",
-          "Tips": null
-        }]
+        "Tips": null,
+        "VisaTypeItems": null
       }
     },
     "Invoice": {
-      "Content": null,
-      "MyInvoices": null,
-      "InvoiceDesc": "",
+      "Content": [{
+        "Key": 1,
+        "Value": "旅游服务费"
+      }, {
+        "Key": 4,
+        "Value": "签证费"
+      }, {
+        "Key": 8,
+        "Value": "机票＋酒店"
+      }, {
+        "Key": 512,
+        "Value": "台湾团队旅游费"
+      }, {
+        "Key": 1024,
+        "Value": "服务费"
+      }],
+      "MyInvoices": [{
+        "Key": 10149060,
+        "Value": "11111"
+      }, {
+        "Key": 10068306,
+        "Value": "sdfs"
+      }, {
+        "Key": 10041167,
+        "Value": "gstt1"
+      }, {
+        "Key": 10012248,
+        "Value": "啊紧身裤"
+      }, {
+        "Key": 10011131,
+        "Value": "发票抬头"
+      }, {
+        "Key": 9759992,
+        "Value": "大法师"
+      }, {
+        "Key": 8742845,
+        "Value": "车子"
+      }, {
+        "Key": 8704513,
+        "Value": "待定"
+      }, {
+        "Key": 8413792,
+        "Value": "nsfocus"
+      }, {
+        "Key": 8388785,
+        "Value": "发个广告广告"
+      }, {
+        "Key": 8176632,
+        "Value": "体育用品"
+      }, {
+        "Key": 7903930,
+        "Value": "测试结果"
+      }, {
+        "Key": 6696555,
+        "Value": "份额公司"
+      }, {
+        "Key": 6403676,
+        "Value": "fgfgh"
+      }, {
+        "Key": 6403669,
+        "Value": "啊萨大声的"
+      }, {
+        "Key": 6028197,
+        "Value": "携程旅行网"
+      }, {
+        "Key": 5799410,
+        "Value": "test"
+      }, {
+        "Key": 5378992,
+        "Value": "asd"
+      }, {
+        "Key": 5760620,
+        "Value": "测试"
+      }, {
+        "Key": 3008181,
+        "Value": "携程计算机技术（上海）"
+      }, {
+        "Key": 5650696,
+        "Value": "asdf"
+      }, {
+        "Key": 5298452,
+        "Value": "xxxxxxx"
+      }, {
+        "Key": 2951053,
+        "Value": "测试抬头"
+      }, {
+        "Key": 1820917,
+        "Value": "陈一新"
+      }, {
+        "Key": 1337740,
+        "Value": "上海浦东科技馆2"
+      }, {
+        "Key": 603410,
+        "Value": "上海携程国际旅行社有限公司"
+      }],
+      "InvoiceDesc": "您的发票将于返程后5个工作日内开具并邮寄给您，请注意查收。",
       "IsSupportEinvoice": false
     },
-    "DeliveryReult": null,
+    "DeliveryReult": {
+      "SelfPickupAddress": ["上海市长宁区福泉路99号携程网络技术大楼 邮编：200335"],
+      "CityCanton": [{
+        "Key": 17,
+        "Value": "长宁区"
+      }, {
+        "Key": 18,
+        "Value": "普陀区"
+      }, {
+        "Key": 19,
+        "Value": "杨浦区"
+      }, {
+        "Key": 20,
+        "Value": "闸北区"
+      }, {
+        "Key": 21,
+        "Value": "虹口区"
+      }, {
+        "Key": 22,
+        "Value": "徐汇区"
+      }, {
+        "Key": 23,
+        "Value": "静安区"
+      }, {
+        "Key": 24,
+        "Value": "卢湾区"
+      }, {
+        "Key": 25,
+        "Value": "黄浦区"
+      }, {
+        "Key": 26,
+        "Value": "闵行区"
+      }, {
+        "Key": 27,
+        "Value": "嘉定区"
+      }, {
+        "Key": 28,
+        "Value": "宝山区"
+      }, {
+        "Key": 29,
+        "Value": "松江区"
+      }, {
+        "Key": 30,
+        "Value": "浦东新区"
+      }, {
+        "Key": 31,
+        "Value": "南汇区（暂未开通）"
+      }, {
+        "Key": 32,
+        "Value": "奉贤区（暂未开通）"
+      }, {
+        "Key": 33,
+        "Value": "青浦区"
+      }, {
+        "Key": 34,
+        "Value": "金山区"
+      }, {
+        "Key": 35,
+        "Value": "崇明县（暂未开通）"
+      }],
+      "DeliveryInfoList": [{
+        "isHasInvoice": 1,
+        "DeliveryGoodsDescriptions": ["发票"],
+        "DeliveryType": [{
+          "DeliveryAmount": 10,
+          "DeliveryType": 3,
+          "IsSupportIntegralDelivery": false,
+          "IntegralDeliverAmount": 0
+        }]
+      }],
+      "MyEMSAddress": [{
+        "InfoId": 42630450,
+        "Address": "南京西路1000号",
+        "ProvinceId": 2,
+        "ProvinceName": "上海",
+        "CityId": 2,
+        "CityName": "上海市",
+        "CantonID": 112,
+        "CantonName": "静安区",
+        "Post": "200333",
+        "Recipient": "test",
+        "Tel": "13000010003",
+        "Mobile": ""
+      }],
+      "InCityDelivery": [{
+        "InfoId": 42630450,
+        "Address": "南京西路1000号",
+        "ProvinceId": 0,
+        "ProvinceName": null,
+        "CityId": 2,
+        "CityName": "上海市",
+        "CantonID": 112,
+        "CantonName": "静安区",
+        "Post": null,
+        "Recipient": null,
+        "Tel": null,
+        "Mobile": null
+      }],
+      "CityName": "上海"
+    },
     "PickUpInfos": [],
     "Reminder": null,
     "OrderPassengerList": null,
