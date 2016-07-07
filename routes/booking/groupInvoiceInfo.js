@@ -1855,15 +1855,6 @@ module.exports = {
   "data": {
     "CustomerInfoTemplate": {
       "CustomerInfoItems": [{
-        "CustomerInfoItemID": 20,
-        "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "10",
-        "Name": "港澳通行证",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 0,
-        "IsRequired": true
-      }, {
         "CustomerInfoItemID": 1,
         "CustomerInfoItemModel": 1,
         "CustomerInfoItemType": "ChineseName",
@@ -1889,7 +1880,7 @@ module.exports = {
         "RegEx": "",
         "Note": null,
         "SortNumber": 4,
-        "IsRequired": false
+        "IsRequired": true
       }, {
         "CustomerInfoItemID": 5,
         "CustomerInfoItemModel": 1,
@@ -1898,7 +1889,7 @@ module.exports = {
         "RegEx": "",
         "Note": null,
         "SortNumber": 5,
-        "IsRequired": true
+        "IsRequired": false
       }, {
         "CustomerInfoItemID": 6,
         "CustomerInfoItemModel": 1,
@@ -1943,15 +1934,42 @@ module.exports = {
         "RegEx": "",
         "Note": null,
         "SortNumber": 11,
-        "IsRequired": true
+        "IsRequired": false
       }, {
-        "CustomerInfoItemID": 14,
+        "CustomerInfoItemID": 13,
         "CustomerInfoItemModel": 2,
-        "CustomerInfoItemType": "2",
-        "Name": "护照",
+        "CustomerInfoItemType": "1",
+        "Name": "身份证",
         "RegEx": "",
         "Note": null,
-        "SortNumber": 14,
+        "SortNumber": 13,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 15,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "3",
+        "Name": "学生证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 15,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 16,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "4",
+        "Name": "军官证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 16,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 17,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "6",
+        "Name": "驾驶证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 17,
         "IsRequired": true
       }, {
         "CustomerInfoItemID": 18,
@@ -1972,6 +1990,96 @@ module.exports = {
         "SortNumber": 19,
         "IsRequired": true
       }, {
+        "CustomerInfoItemID": 20,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "10",
+        "Name": "港澳通行证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 20,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 21,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "11",
+        "Name": "国际海员证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 21,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 22,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "20",
+        "Name": "外国人永久居留证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 22,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 23,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "21",
+        "Name": "旅行证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 23,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 24,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "22",
+        "Name": "台湾通行证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 24,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 25,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "23",
+        "Name": "士兵证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 25,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 26,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "24",
+        "Name": "临时身份证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 26,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 27,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "25",
+        "Name": "户口簿",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 27,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 28,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "26",
+        "Name": "警官证",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 28,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 29,
+        "CustomerInfoItemModel": 2,
+        "CustomerInfoItemType": "99",
+        "Name": "其它",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 29,
+        "IsRequired": true
+      }, {
         "CustomerInfoItemID": 30,
         "CustomerInfoItemModel": 2,
         "CustomerInfoItemType": "100",
@@ -1981,13 +2089,58 @@ module.exports = {
         "SortNumber": 30,
         "IsRequired": true
       }, {
-        "CustomerInfoItemID": 40,
+        "CustomerInfoItemID": 60,
         "CustomerInfoItemModel": 1,
         "CustomerInfoItemType": "CustomerType",
         "Name": "客户类别",
         "RegEx": "",
         "Note": null,
         "SortNumber": 31,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 61,
+        "CustomerInfoItemModel": 3,
+        "CustomerInfoItemType": "Officer_1",
+        "Name": "在职",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 32,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 62,
+        "CustomerInfoItemModel": 3,
+        "CustomerInfoItemType": "Freelance_1",
+        "Name": "自由职业",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 33,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 63,
+        "CustomerInfoItemModel": 3,
+        "CustomerInfoItemType": "Students_1",
+        "Name": "在校学生",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 34,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 64,
+        "CustomerInfoItemModel": 3,
+        "CustomerInfoItemType": "Retirement_1",
+        "Name": "退休",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 35,
+        "IsRequired": true
+      }, {
+        "CustomerInfoItemID": 65,
+        "CustomerInfoItemModel": 3,
+        "CustomerInfoItemType": "Preschoolers_1",
+        "Name": "学龄前儿童",
+        "RegEx": "",
+        "Note": null,
+        "SortNumber": 36,
         "IsRequired": true
       }],
       "FillInNumberLimit": "A",
@@ -2018,45 +2171,7 @@ module.exports = {
     "DeliveryReult": null,
     "PickUpInfos": [],
     "Reminder": null,
-    "OrderPassengerList": [{
-      "clientID": 31951233,
-      "nameCN": "测试",
-      "name": null,
-      "clientType": 1,
-      "ENFirstName": "SHI",
-      "ENLastName": "CE",
-      "ENMiddleName": "",
-      "national": "CN",
-      "gender": 1,
-      "birthday": "1990-12-03",
-      "mobileNo": "13000000000",
-      "IDCardNo": "333322223",
-      "IDCardType": 10,
-      "IDCardTimelimit": "2020-01-07",
-      "HomePlace": "",
-      "CustomerType": "",
-      "VisaType": "G",
-      "IsRoomAssign": false
-    }, {
-      "clientID": 31306970,
-      "nameCN": "测试",
-      "name": null,
-      "clientType": 1,
-      "ENFirstName": "SHI",
-      "ENLastName": "CE",
-      "ENMiddleName": "",
-      "national": "CN",
-      "gender": 1,
-      "birthday": "1990-12-03",
-      "mobileNo": "13000000000",
-      "IDCardNo": "C1233133",
-      "IDCardType": 10,
-      "IDCardTimelimit": "2020-01-15",
-      "HomePlace": "",
-      "CustomerType": "",
-      "VisaType": "N",
-      "IsRoomAssign": false
-    }],
+    "OrderPassengerList": null,
     "OrderDelivery": null,
     "OrderInvoice": null,
     "OrderOther": null,

@@ -164,7 +164,7 @@ module.exports = {
             "CityName": "上海"
         },
         "PickUpInfos": [],
-        "Reminder": null,
+        "Reminder": ['接民航总局通知，凡购买到达或中转城市为西藏拉萨、林芝、昌都、日喀则、阿里航班的旅客，只能使用中国公民身份证进行预订'],
         "IsVisa": false,
         "VisaTypeInfo": {
         "Tips": "签注类型提示文字",
