@@ -37,4 +37,12 @@ router.post('/XResource/AjaxGetXResource', function(req, res, next) {
 router.get('/Portal/AirportAndHotelCityMapping', function(req, res, next) {
   res.send(AirportAndHotelCityMapping)
 });
+
+router.get('/ProductDetail/QRCode', function(req, res, next) {
+  res.send("code")
+});
+router.get('/VerifyCode/Img', function(req, res, next) {
+  res.send("tupian")
+});
+
 module.exports = router;

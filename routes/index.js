@@ -159,4 +159,9 @@ router.post('/getfiles', function(req, res, next) {
   })
 });
 
+router.post('/Webresource/Webresource/ResPackageOnline/js/tools/underscore.js', function(req, res, next) {
+  res.sendfile('Webresource/Webresource/ResPackageOnline/js/tools/address-1.0_calendar-6.0_jmp-1.0_validate-1.1_lazyLoad-1.0.js')
+});
+
+
 module.exports = router;
