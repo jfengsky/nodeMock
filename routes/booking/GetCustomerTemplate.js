@@ -93,6 +93,15 @@ module.exports = {
             "SortNumber": 13,
             "IsRequired": true
         }, {
+            "CustomerInfoItemID": 14,
+            "CustomerInfoItemModel": 2,
+            "CustomerInfoItemType": "2",
+            "Name": "护照",
+            "RegEx": "",
+            "Note": null,
+            "SortNumber": 0,
+            "IsRequired": true
+        }, {
             "CustomerInfoItemID": 15,
             "CustomerInfoItemModel": 2,
             "CustomerInfoItemType": "3",
@@ -292,6 +301,22 @@ module.exports = {
             "IsRequired": true
         }],
         "FillInNumberLimit": "A",
-        "IsVisaBySelf": false
+        "IsVisaBySelf": false,
+        "VisaTypeInfo": {
+            "Tips": null,
+            "VisaTypeItems": [{
+                "VisaType": "G",
+                "VisaTypeName": "G签",
+                "Tips": null
+            }, {
+                "VisaType": "L",
+                "VisaTypeName": "L签",
+                "Tips": "个人持L团队签注前往香港需选择送关服务并支付费用，拼团出关。"
+            }, {
+                "VisaType": "N",
+                "VisaTypeName": "尚未办理",
+                "Tips": null
+            }]
+        }
     }
 }

@@ -3,25 +3,12 @@ module.exports = {
   "errno": 0,
   "data": {
     "PassengerLst": [{
-      "clientID": 31376082,
-      "nameCN": "徐敏婕",
+      "clientID": 31604458,
+      "nameCN": "",
       "ENFirstName": "",
       "ENLastName": "",
       "ENMiddleName": "",
-      "national": "",
-      "gender": 0,
-      "birthday": null,
-      "mobileNo": "18551542883",
-      "HomePlace": "",
-      "IDCardInfo": null,
-      "CustomerType": ""
-    }, {
-      "clientID": 31604458,
-      "nameCN": "雷涛",
-      "ENFirstName": "tao",
-      "ENLastName": "lei",
-      "ENMiddleName": "",
-      "national": "TW",
+      "national": "JP",
       "gender": 0,
       "birthday": "1973-01-10",
       "mobileNo": "13918777298",
