@@ -74,21 +74,21 @@
         vars: {
             handles: {//api
                 CustomerTemplate: "/bookingnext/orderv2/GetCustomerTemplate",
-                CanBookCheck:"/bookingnext/orderv2/CanBookCheck?ShoppingId=3bd8f5cce0124457a78454aaab1372ac",
+                CanBookCheck:"/bookingnext/orderv2/CanBookCheck?ShoppingId=993c76d064184197acefec94a4a0c923",
                 GetPromotion:"/bookingnext/couponv2/GetPromotion",
                 GetRegionInfo:'/bookingnext/common/GetRegion',
                 GetAreaInfo:'/bookingnext/common/GetAreas',
                 verifyMobile:'/bookingnext/common/CheckUserByPhoneNum',
-                Submitorder:'/bookingnext/orderv2/SubmitOrder?ShoppingId=3bd8f5cce0124457a78454aaab1372ac',
-                GetContacts: "/bookingnext/orderinput/GetCustomerInfo?dest=0&ShoppingId=3bd8f5cce0124457a78454aaab1372ac", //常用联系人
+                Submitorder:'/bookingnext/orderv2/SubmitOrder?ShoppingId=993c76d064184197acefec94a4a0c923',
+                GetContacts: "/bookingnext/orderinput/GetCustomerInfo?dest=32&ShoppingId=993c76d064184197acefec94a4a0c923", //常用联系人
                 ShoppingDetail:"/bookingnext/LoadBookingInfoV2",
                 VerifyPromotion: "/bookingnext/couponv2/ValidatePromotion", ////优惠券验证
                 HotelPolicy: "/bookingnext/hotel/GetPolicy",
                 BookingTips:"/bookingnext/BookingLimitV2/BookingTips",
-                GetDeliveryAndInvoice:"/bookingnext/DeliverV2/InvoiceInfo?ShoppingId=3bd8f5cce0124457a78454aaab1372ac",
-                SaveDeliveryAddress:"/bookingnext/DeliverV2/SaveDeliveryAddress?ShoppingId=3bd8f5cce0124457a78454aaab1372ac",
-                BookingTipsLimit:"/bookingnext/BookingLimitV2/BookingTipsLimit?ShoppingId=3bd8f5cce0124457a78454aaab1372ac",
-                CheckOrderIsDuplicated: "/bookingnext/OrderInput/CheckOrderIsDuplicated"
+                GetDeliveryAndInvoice:"/bookingnext/DeliverV2/InvoiceInfo?ShoppingId=993c76d064184197acefec94a4a0c923",
+                SaveDeliveryAddress:"/bookingnext/DeliverV2/SaveDeliveryAddress?ShoppingId=993c76d064184197acefec94a4a0c923",
+                CheckOrderIsDuplicated:'/bookingnext/orderv2/CheckOrderIsDuplicated',
+                BookingTipsLimit:"/bookingnext/BookingLimitV2/BookingTipsLimit?ShoppingId=993c76d064184197acefec94a4a0c923"
             },
             initData: {//初始化的JSON数据
                 Orderid: 128123307,
@@ -105,7 +105,7 @@
                 ChlidNumber: 0,
                 IsCanUsePromotion:true,//为false则提示优惠相关话术
                 OrderContactJson:{"ContactName":"携程客户","ContactMobile":"13022228888","ContactTel":"","ContactEmail":"qwq@cd.com","ContactAddress":"","ContactFax":""},
-                PassengerListJson:null,
+                PassengerListJson:[{"clientID":0,"nameCN":"","name":"","clientType":1,"ENFirstName":"","ENLastName":"","ENMiddleName":"","national":"KR","gender":-1,"birthday":"","mobileNo":"","IDCardNo":"","IDCardType":2,"IDCardTimelimit":"2099-12-30","HomePlace":"","CustomerType":"","VisaType":"","IsRoomAssign":false}],
                 // OrderInvoiceInfoJson:null,
                 OrderInvoiceInfoJson:{
                     "Title":"发个广告广告",

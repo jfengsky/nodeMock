@@ -4,7 +4,7 @@ module.exports = {
   "data": {
     "PassengerLst": [{
       "clientID": 31604458,
-      "nameCN": "",
+      "nameCN": "测试名",
       "ENFirstName": "",
       "ENLastName": "",
       "ENMiddleName": "",
@@ -16,7 +16,7 @@ module.exports = {
       "IDCardInfo": [{
         "InfoID": 0,
         "IDCardNo": "310109",
-        "IDCardType": 7,
+        "IDCardType": 2,
         "IDCardTimelimit": null
       }],
       "CustomerType": ""

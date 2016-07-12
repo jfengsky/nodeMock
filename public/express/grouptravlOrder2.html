@@ -19,10 +19,10 @@
         <link href="http://webresource.fws.qa.nt.ctripcorp.com/ResVacationOnline/R8/css/vacation_v1/book.css?ver=20141229" rel="stylesheet" type="text/css" />
         <link href="http://webresource.fws.qa.nt.ctripcorp.com/ResVacationOnline/R8/css/common/public_flights_logo.css?ver=20141229" rel="stylesheet" type="text/css" />
         <script type="text/javascript">
-        if (document.charset != "gb2312" && navigator.userAgent.indexOf("MSIE") > 0) {
-            document.charset = "gb2312";
-            window.location.reload(true);
-        }
+        // if (document.charset != "gb2312" && navigator.userAgent.indexOf("MSIE") > 0) {
+        //     document.charset = "gb2312";
+        //     window.location.reload(true);
+        // }
         </script>
 
     <script>
@@ -372,7 +372,7 @@
                 },
             isLogin: 1,
             IsCruise: 0,
-            DestType: 1,
+            DestType: 4,
             IsCanSubmitFirst:false,
             EnableTemporarySave: 1,
             EnableAutoTemporarySave: 1,
@@ -393,6 +393,7 @@
         main.init({
             initData:GV.app.order.vars
         });
+        
     });
 </script>
         <script type="text/javascript">

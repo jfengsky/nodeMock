@@ -1006,15 +1006,6 @@ module.exports = {
         "SortNumber": 1,
         "IsRequired": true
       }, {
-        "CustomerInfoItemID": 2,
-        "CustomerInfoItemModel": 1,
-        "CustomerInfoItemType": "EnglishName",
-        "Name": "英文姓名",
-        "RegEx": "",
-        "Note": null,
-        "SortNumber": 2,
-        "IsRequired": true
-      }, {
         "CustomerInfoItemID": 4,
         "CustomerInfoItemModel": 1,
         "CustomerInfoItemType": "Nationality",
@@ -1780,13 +1771,13 @@ module.exports = {
     "Reminder": null,
     "OrderPassengerList": [{
       "clientID": 3503,
-      "nameCN": "",
+      "nameCN": "测名",
       "name": null,
       "clientType": 1,
       "ENFirstName": "SHIYI",
       "ENLastName": "TEST",
       "ENMiddleName": "",
-      "national": "JP",
+      "national": "TW",
       "gender": 0,
       "birthday": "1988-01-01",
       "mobileNo": "13600000000",
@@ -1799,7 +1790,7 @@ module.exports = {
       "IsRoomAssign": false
     }, {
       "clientID": 36313,
-      "nameCN": "测试二",
+      "nameCN": "测名",
       "name": null,
       "clientType": 1,
       "ENFirstName": "SHIER",
