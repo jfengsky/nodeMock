@@ -1,1 +1,0 @@
-module.exports = {"success":true,"data":0.0000}
